@@ -1,0 +1,14 @@
+C:\Users\AashishKumar Ambasta\Desktop\GameOfLife_CodeInput\GameOfLife_CodeInput\bin\Debug\net8.0\GameOfLife_CodeInput.exe
+C:\Users\AashishKumar Ambasta\Desktop\GameOfLife_CodeInput\GameOfLife_CodeInput\bin\Debug\net8.0\GameOfLife_CodeInput.deps.json
+C:\Users\AashishKumar Ambasta\Desktop\GameOfLife_CodeInput\GameOfLife_CodeInput\bin\Debug\net8.0\GameOfLife_CodeInput.runtimeconfig.json
+C:\Users\AashishKumar Ambasta\Desktop\GameOfLife_CodeInput\GameOfLife_CodeInput\bin\Debug\net8.0\GameOfLife_CodeInput.dll
+C:\Users\AashishKumar Ambasta\Desktop\GameOfLife_CodeInput\GameOfLife_CodeInput\bin\Debug\net8.0\GameOfLife_CodeInput.pdb
+C:\Users\AashishKumar Ambasta\Desktop\GameOfLife_CodeInput\GameOfLife_CodeInput\obj\Debug\net8.0\GameOfLife_CodeInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AashishKumar Ambasta\Desktop\GameOfLife_CodeInput\GameOfLife_CodeInput\obj\Debug\net8.0\GameOfLife_CodeInput.AssemblyInfoInputs.cache
+C:\Users\AashishKumar Ambasta\Desktop\GameOfLife_CodeInput\GameOfLife_CodeInput\obj\Debug\net8.0\GameOfLife_CodeInput.AssemblyInfo.cs
+C:\Users\AashishKumar Ambasta\Desktop\GameOfLife_CodeInput\GameOfLife_CodeInput\obj\Debug\net8.0\GameOfLife_CodeInput.csproj.CoreCompileInputs.cache
+C:\Users\AashishKumar Ambasta\Desktop\GameOfLife_CodeInput\GameOfLife_CodeInput\obj\Debug\net8.0\GameOfLife_CodeInput.dll
+C:\Users\AashishKumar Ambasta\Desktop\GameOfLife_CodeInput\GameOfLife_CodeInput\obj\Debug\net8.0\refint\GameOfLife_CodeInput.dll
+C:\Users\AashishKumar Ambasta\Desktop\GameOfLife_CodeInput\GameOfLife_CodeInput\obj\Debug\net8.0\GameOfLife_CodeInput.pdb
+C:\Users\AashishKumar Ambasta\Desktop\GameOfLife_CodeInput\GameOfLife_CodeInput\obj\Debug\net8.0\GameOfLife_CodeInput.genruntimeconfig.cache
+C:\Users\AashishKumar Ambasta\Desktop\GameOfLife_CodeInput\GameOfLife_CodeInput\obj\Debug\net8.0\ref\GameOfLife_CodeInput.dll
